@@ -21,6 +21,7 @@ import com.example.exoplayer.databinding.ActivityPlayerBinding
 
 /**
  * A fullscreen activity to play audio or video streams.
+ * test comment
  */
 class PlayerActivity : AppCompatActivity() {
 
